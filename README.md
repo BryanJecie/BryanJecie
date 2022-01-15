@@ -1,4 +1,14 @@
-### Hi there 👋 I'm BryanJecie im a full-stack developer
+
+
+### Hi there 👋 I'm a Full-stack Developer
+<hr>
+
+<p align="center">
+    <a href="https://twitter.com/bayang202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brigidojosue" height="30" width="30" />
+</a>
+<a href="https://www.linkedin.com/in/bryan-jecie-bahala-a20a08b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalavhan" height="30" width="30" /></a>
+
+</p>
 
 <!--
 **BryanJecie/BryanJecie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
