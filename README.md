@@ -4,7 +4,7 @@
 
 
 <p>
-      I'm a full-stack developer from Butuan City, Philippines, with over a years of experience in commercial development. Mostly I work on the back-end, coding on PHP Laravel Frameworks with MySQL database. Also, I'm engaged in front-end development on JavaScript using different client-side frameworks like Vue.js, jQuery, BootstrapVue, PrimeVu
+      I'm a full-stack developer from Butuan City, Philippines, with over a years of experience in commercial development. Mostly I work on the back-end, coding on PHP Laravel Frameworks with MySQL database. Also, I'm engaged in front-end development on JavaScript using different client-side frameworks like Vue.js, jQuery, BootstrapVue, PrimeVue
 </p>
 
 <strong> Working on:</strong>
@@ -26,10 +26,10 @@
       Twitter: <a href="https://twitter.com/bayang202"> @bayang202</a>
     </li>
     <li>
-      Linkedin: <a href="https://www.linkedin.com/in/bryan-jecie-bahala-a20a08b3/"> Bryan Jecie </a>
+      LinkedIn: <a href="https://www.linkedin.com/in/bryan-jecie-bahala-a20a08b3/">Bryan Jecie </a>
     </li>
     <li>
-      Website: <a href="https://my-porfolio-9f414.web.app/my-portfolio/">bryanjecie.com</a>
+      Website: <a href="https://my-porfolio-9f414.web.app/my-portfolio/">tinyurl.com/bryanjecie</a>
     </li>
 </ul>
 
