@@ -4,7 +4,7 @@
 
 
 <p>
-      I'm a full-stack developer from Butuan City, Philippines, with over a years of experience in commercial development. Mostly I work on the back-end, coding on PHP Laravel Frameworks with MySQL database. Also, I'm engaged in front-end development on JavaScript using different client-side frameworks like Vue.js, Javascript
+      I'm a full-stack developer from Butuan City, Philippines, with over a years of experience in commercial development. Mostly I work on the back-end, coding on PHP Laravel Frameworks with MySQL database. Also, I'm engaged in front-end development on JavaScript using different client-side frameworks like Vue.js, jQuery, BootstrapVue, PrimeVu
 </p>
 
 <strong> Working on:</strong>
