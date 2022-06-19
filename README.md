@@ -26,10 +26,10 @@
       Twitter: <a href="https://twitter.com/bayang202"> @bayang202</a>
     </li>
     <li>
-      LinkedIn: <a href="https://www.linkedin.com/in/bryan-jecie-bahala-a20a08b3/">Bryan Jecie </a>
+      LinkedIn: <a href="https://www.linkedin.com/in/bryan-jecie-bahala-a20a08b3/">BryanJecie </a>
     </li>
     <li>
-      Website: <a href="https://my-porfolio-9f414.web.app/my-portfolio/">tinyurl.com/bryanjecie</a>
+      Website: <a href="https://bryanjc.marjelu.com/">bryanjc.marjelu.com</a>
     </li>
 </ul>
 
