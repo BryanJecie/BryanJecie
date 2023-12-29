@@ -4,18 +4,13 @@
 
 
 <p>
-      I'm a full-stack developer from Butuan City, Philippines, with over a years of experience in commercial development. Mostly I work on the back-end, coding on PHP Laravel Frameworks with MySQL database. Also, I'm engaged in front-end development on JavaScript using different client-side frameworks like Vue.js, jQuery, BootstrapVue, PrimeVue
+      I'm a full-stack developer from Butuan City, Philippines, with over years of experience in commercial development. Mostly I work on the back-end, coding on PHP Laravel Frameworks with MySQL database. Also, I'm engaged in front-end development on JavaScript using different client-side frameworks like Vue.js, jQuery, BootstrapVue, PrimeVue
 </p>
 
 <strong> Working on:</strong>
 <ul>
-    <li>
-    🔭 I’m currently working @
-        <a href="https://www.med4.care/">Med4Care</a>
-        as Senior Developer
-    </li>
      <li>
-    🌱 I’m currently learning and focussing on sofware as services (SAAS).
+    🌱 I’m currently learning and focussing on microservices.
     </li>
 </ul>
 
